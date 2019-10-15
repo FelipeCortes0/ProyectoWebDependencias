@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FelipeCortes0/ProyectoWebDependencias.git/static/css/main.a9827aa0.chunk.css",
+    "main.js": "/FelipeCortes0/ProyectoWebDependencias.git/static/js/main.6f675cae.chunk.js",
+    "main.js.map": "/FelipeCortes0/ProyectoWebDependencias.git/static/js/main.6f675cae.chunk.js.map",
+    "runtime-main.js": "/FelipeCortes0/ProyectoWebDependencias.git/static/js/runtime-main.f378846d.js",
+    "runtime-main.js.map": "/FelipeCortes0/ProyectoWebDependencias.git/static/js/runtime-main.f378846d.js.map",
+    "static/js/2.8136db3a.chunk.js": "/FelipeCortes0/ProyectoWebDependencias.git/static/js/2.8136db3a.chunk.js",
+    "static/js/2.8136db3a.chunk.js.map": "/FelipeCortes0/ProyectoWebDependencias.git/static/js/2.8136db3a.chunk.js.map",
+    "index.html": "/FelipeCortes0/ProyectoWebDependencias.git/index.html",
+    "precache-manifest.5fba7def591bc44339332c2f31448c7a.js": "/FelipeCortes0/ProyectoWebDependencias.git/precache-manifest.5fba7def591bc44339332c2f31448c7a.js",
+    "service-worker.js": "/FelipeCortes0/ProyectoWebDependencias.git/service-worker.js",
+    "static/css/main.a9827aa0.chunk.css.map": "/FelipeCortes0/ProyectoWebDependencias.git/static/css/main.a9827aa0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f378846d.js",
+    "static/js/2.8136db3a.chunk.js",
+    "static/css/main.a9827aa0.chunk.css",
+    "static/js/main.6f675cae.chunk.js"
+  ]
+}
